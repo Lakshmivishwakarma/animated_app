@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "productName": "iPhone Pro",
+    "productTitle": "Apple iPhone13 Pro (128GB) - Blue",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/apple1.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+  {
+    "id": 2,
+    "productName": "iPhone13",
+    "productTitle": "Apple iPhone13(11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphone13.jpeg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  },
+  {
+    "id": 3,
+    "productName": "iPhone SE",
+    "productTitle": "Apple iPhone SE(11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphone13detail.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  },
+  {
+    "id": 4,
+    "productName": "iPhone 12",
+    "productTitle": "Apple iPhone 12(11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphone13.jpeg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  },
+  {
+    "id": 5,
+    "productName": "iPhone 11 ",
+    "productTitle": "Apple iPhone11  (11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphonepro.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  },
+  {
+    "id": 6,
+    "productName": "iPhone Mini ",
+    "productTitle": "Apple iPhone11 Mini  (11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphoneSE.jpeg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  },
+  {
+    "id": 7,
+    "productName": "iPhone11 Pro",
+    "productTitle": "Apple iPhone11 Pro (11-inch/27.96 cm)-Space Grey",
+    "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+    "description": "The ultimate iPhone",
+    "subDescription": " experience.",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "detailDescription": [
+      "Apple M1 chip for next-level performance",
+      "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+      "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+      "Stay connected with ultrafast Wi-Fi and 4GLTE",
+      "Stay connected with ultrafast Wi-Fi"
+    ],
+    "offer": "-17%",
+    "price": "115000",
+    "path": "/assets/images/iphonepro.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/ipad.jpg",
+    "mrp": 150900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+  }
+]

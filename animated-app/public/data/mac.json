@@ -1,0 +1,141 @@
+[
+    {
+      "id": 1,
+      "productName": "MacBook Air (M1)",
+      "productTitle": "MacBook Air (M1) (128GB) - Blue",
+      "description": "The ultimate iPhone",
+      "subDescription": " experience.",
+      "learnMore": "Learn more",
+      "buttonText": "Add to Cart",
+      "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      
+      "detailDescription": [
+        "15 cm (6.1-inch) Super Retina XDR display",
+        "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+        "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+        "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "A15 Bionic chip for lightning-fast performance",
+        "Up to 19 hours of video playback",
+        "Durable design with Ceramic Shield"
+      ],
+      "offer": "-17%",
+      "price": "70,900.00",
+      "path": "/assets/images/macbook3.jpeg",
+      "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+      "detailImage": "/assets/images/iphoneDetail.jpg",
+      "mrp": 79900,
+      "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+      "creditCardOffer": "10% discount on SBI credit card",
+      "images": [
+        "/assets/images/iphoneDetail.jpg",
+        "/assets/images/iphone13.jpg",
+        "/assets/images/iphone13detail.jpg"
+      ],
+      "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+
+    },
+  
+    {
+      "id": 2,
+      "productName": "MacBook Air (M2)",
+      "productTitle": "MacBook Air (M2)(11-inch/27.96 cm)-Space Grey",
+      "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "description": "The ultimate iPhone",
+      "subDescription": " experience.",
+      "learnMore": "Learn more",
+      "buttonText": "Add to Cart",
+      "detailDescription": [
+        "Apple M1 chip for next-level performance",
+        "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+        "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+        "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+        "Stay connected with ultrafast Wi-Fi and 4GLTE",
+        "Stay connected with ultrafast Wi-Fi"
+      ],
+      "offer": "-17%",
+      "price": "115000",
+      "path": "/assets/images/macbook2.jpg",
+      "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+      "detailImage": "/assets/images/ipad.jpg",
+      "mrp": 150900,
+      "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+      "creditCardOffer": "10% discount on SBI credit card",
+      "images": [
+        "/assets/images/iphone13.jpg",
+        "/assets/images/iphoneDetail.jpg",
+        "/assets/images/iphone13detail.jpg"
+      ],
+      "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+    },
+    {
+      "id": 3,
+      "productName": "MacBook Pro 13”",
+      "productTitle": "MacBook Pro 13 (128GB) - Blue",
+      "description": "The ultimate iPhone",
+      "subDescription": " experience.",
+      "learnMore": "Learn more",
+      "buttonText": "Add to Cart",
+      "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      
+      "detailDescription": [
+        "15 cm (6.1-inch) Super Retina XDR display",
+        "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+        "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+        "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "A15 Bionic chip for lightning-fast performance",
+        "Up to 19 hours of video playback",
+        "Durable design with Ceramic Shield"
+      ],
+      "offer": "-17%",
+      "price": "70,900.00",
+      "path": "/assets/images/mac1.jpg",
+      "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+      "detailImage": "/assets/images/iphoneDetail.jpg",
+      "mrp": 79900,
+      "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+      "creditCardOffer": "10% discount on SBI credit card",
+      "images": [
+        "/assets/images/iphone13.jpg",
+        "/assets/images/iphoneDetail.jpg",
+        "/assets/images/iphone13detail.jpg"
+      ],
+      "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+
+    
+    },
+  
+    {
+      "id": 4,
+      "productName": "MacBook Pro 14",
+      "productTitle": "MacBook Pro 14(11-inch/27.96 cm)-Space Grey",
+      "productDetail": "Apple M1 chip for next-level performance, Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color,TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+      "description": "The ultimate iPhone",
+      "subDescription": " experience.",
+      "learnMore": "Learn more",
+      "buttonText": "Add to Cart",
+      "detailDescription": [
+        "Apple M1 chip for next-level performance",
+        "Stunning 27.96 cm (11-inch) Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+        "TrueDepth camera system featuring Ultra Wide front camera with Center Stage",
+        "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR",
+        "Stay connected with ultrafast Wi-Fi and 4GLTE",
+        "Stay connected with ultrafast Wi-Fi"
+      ],
+      "offer": "-17%",
+      "price": "115000",
+      "path": "/assets/images/macpro.jpg",
+      "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+      "detailImage": "/assets/images/ipad.jpg",
+      "mrp": 150900,
+      "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+      "creditCardOffer": "10% discount on SBI credit card",
+      "images": [
+        "/assets/images/iphoneDetail.jpg",
+        "/assets/images/iphone13.jpg",
+        "/assets/images/iphone13detail.jpg"
+      ],
+      "videosrc": "https://www.youtube.com/embed/I5oWgn6_5Co?autoplay=1&mute=1"
+
+    }
+  ]
+  

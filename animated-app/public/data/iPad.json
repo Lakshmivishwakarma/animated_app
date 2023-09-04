@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "productName": "iPad Pro",
+    "description": "The ultimate iPad ",
+    "subDescription": "experience.",
+    "productTitle": "iPad Pro",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/ipad.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13detail.jpg",
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+
+  {
+    "id": 2,
+    "productName": "iPad Air",
+    "description": "Powerful. Colourful",
+    "subDescription": "Wonderful..",
+    "productTitle": "iPad Air",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/iphone13.jpeg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+
+  {
+    "id": 3,
+    "productName": "iPad",
+    "description": "Delightfully capable.",
+    "subDescription": "affordable.",
+    "productTitle": "iPad",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/ipadAir.jpeg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+  {
+    "id": 4,
+    "productName": "iPad mini",
+    "description": "The ultimate iPad ",
+    "subDescription": " experience.",
+    "productTitle": "iPad mini",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/iphone13.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+  {
+    "id": 5,
+    "productName": "iPad (9th Generation)",
+    "description": "Mega power.",
+    "subDescription": "Mini sized.",
+    "productTitle": "iPad mini",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/iphone13.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  },
+  {
+    "id": 6,
+    "productName": "iPad (10th Generation)",
+    "description": "The ultimate iPad ",
+    "subDescription": "experience.",
+    "productTitle": "iPad mini",
+    "learnMore": "Learn more",
+    "buttonText": "Add to Cart",
+    "productDetail": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, 15 cm (6.1-inch) Super Retina XDR display,12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+
+    "detailDescription": [
+      "15 cm (6.1-inch) Super Retina XDR display",
+      "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+      "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+      "A15 Bionic chip for lightning-fast performance",
+      "Up to 19 hours of video playback",
+      "Durable design with Ceramic Shield"
+    ],
+    "offer": "-17%",
+    "price": "70,900.00",
+    "path": "/assets/images/iphone13.jpg",
+    "buyTitle": "Apple iPhone 13 (128GB) - (Product) RED",
+    "detailImage": "/assets/images/iphoneDetail.jpg",
+    "mrp": 79900,
+    "gstOffer": "Get GST invoice and save up to 28% on business purchases.",
+    "creditCardOffer": "10% discount on SBI credit card",
+    "images": [
+      "/assets/images/iphone13.jpg",
+      "/assets/images/iphoneDetail.jpg",
+      "/assets/images/iphone13detail.jpg"
+    ],
+    "videosrc": "https://www.youtube.com/embed/XKfgdkcIUxw?autoplay=1&mute=1"
+  }
+]

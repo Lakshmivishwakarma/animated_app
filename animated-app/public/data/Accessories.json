@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "productName": "Pride edition sport loop",
+    "description": "New",
+    "price": " MRP ₹3900.00 (Incl. of all taxes)",
+    "path": "/assets/images/macbook3.jpeg"
+  },
+  {
+    "id": 2,
+    "productName": "Smart Folio for ipad Air",
+    "description": "New",
+    "price": " MRP ₹7500.00 (Incl. of all taxes)",
+    "path": "/assets/images/ipad.jpeg"
+  },
+  {
+    "id": 3,
+    "productName": "Pride edition sport loop",
+    "description": "New",
+    "price": "MRP ₹19500.00 (Incl. of all taxes)",
+    "path": "/assets/images/iphone12.jpeg"
+  }
+]
